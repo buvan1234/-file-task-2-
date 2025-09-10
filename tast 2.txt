@@ -1,0 +1,5 @@
+buvanesh@LENOVO:~$ touch /home/buvanesh/demo.txt
+buvanesh@LENOVO:~$ chmod 764 /home/buvanesh/demo.txt
+buvanesh@LENOVO:~$ ls -l /home/buvanesh/demo.txt
+-rwxrw-r-- 1 buvanesh buvanesh 0 Sep  8 12:39 /home/buvanesh/demo.txt
+buvanesh@LENOVO:~$
